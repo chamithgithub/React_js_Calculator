@@ -6,3 +6,9 @@
   justify-content: center;
   background: yellow;
 }
+
+.calculator{
+  padding: 20px;
+  border-radius: 10px;
+  background-color: aqua;
+}
