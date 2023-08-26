@@ -48,6 +48,10 @@ form .display input{
 }
 
 form input.equal{
-  width: 130px;
+  width: 123px;
+  
+}
+form input.zero{
+  width: 123px;
   
 }
